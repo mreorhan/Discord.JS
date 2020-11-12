@@ -83,4 +83,4 @@ client.on("message",message=>{
 
 
 
-client.login("NzE2MjcyODUxMzc1NzUxMjI5.XtJXLw.KEKZ9DUu4kfVuodWwze62V4s7tc")
+client.login("TOKEN")
